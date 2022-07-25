@@ -1,6 +1,7 @@
 ## **Portfólio**.
 
 **Apresentação:**
+
 Minha vida profissional comecei na área comercial e varejista, trabalhando com vendas e promoção de vendas.
 Porém sempre fui muito ligado a tecnologia, fiz curso profissionalizante na área de montagem e configuração de microcomputadores no SENAI.
 A dois anos me despertei para uma mudança de carreira e aceitei o desafio de cursar uma faculdade de TI, no curso de Análise e Desenvolvimento de Sistemas na UNIP. 
