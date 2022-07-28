@@ -4,7 +4,7 @@
 
 **Resumo:**
 
-Esse projeto teve como objetivo, realizar um programa em C++ no qual nos teríamos que criar um sistema de, controle para uma pequena rede clínicas médica.
+Esse projeto teve como objetivo, realizar um programa em C++ no qual nós teríamos que criar um sistema de, controle para uma pequena rede clínicas médica.
 
 O objetivo é desenvolver as funções:
 
