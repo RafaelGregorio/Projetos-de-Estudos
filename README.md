@@ -1,13 +1,12 @@
-## **Portfólio**.
+## **Sobre**.
 
 **Apresentação:**
 
-Minha vida profissional comecei na área comercial e varejista, trabalhando com vendas e promoção de vendas.
-Porém sempre fui muito ligado a tecnologia, fiz curso profissionalizante na área de montagem e configuração de microcomputadores no SENAI.
-A dois anos me despertei para uma mudança de carreira e aceitei o desafio de cursar uma faculdade de TI, no curso de Análise e Desenvolvimento de Sistemas na UNIP. 
-Aprendi muito e o foco foram as linguagens C++, C#, SQL Server, HTML, CSS e javaScript.
-
-Aqui nesse repositório irei colocar projetos de cunho acadêmico, por não ter experiência profissional na área.
-
-Estou a procura de uma colocação no mercado, em constante estudo para aprimorar meu conhecimento, e para aprender novas tecnologias, sou dedicado, esforçado, pretendo me tornar um profissional full stack. 
+Profissional recém-formado em Análise e Desenvolvimento de Sistemas, tenho conhcimento nas linguagens C++, C#, Microsoft SQL Server, HTML5, CSS3 e JavaScript. Conhecimento em metodologias ágeis como Scrum.
+Dentro da matéria de Engenharia de Software aprendi todo o ciclo de desenvolvimento de software e qualidade de com ceertificaçãoes ISO. 
+Tenho mais domínio em HTML5, CSS3 e JavaScript no qual tenho estudado e especializado.
+Tenho curso técnico em Montagem e Manutenção de Microcomputadores pela escola SENAI.
+Atuei por 8 anos na área comercial, onde exercia a função de consultoria tecnológica, e venda técnica. Hoje estou em busca de recolocação no mercado.
+Tenho sede de conhecimento, facilidade em aprender e estou disposto a encarar esse desafio para minha vida.
+Cursando Inglês na instituição Open English.
 
