@@ -1,0 +1,90 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(41, 39, 39);
+    color: black;
+    padding: 60px 0px 60px 0px;
+}
+
+header{
+    background-color: white;
+    min-width: 300px;
+    max-width: 940px;
+    margin: auto;
+    height: 150px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-radius: 10px 10px 0px 0px;
+}
+
+header > h1 {
+    text-indent: 2em;
+    padding: 15px 0px 15px 0px;
+}
+
+header > h2 {
+    text-indent: 2.7em;
+    padding-top: 15px;
+}
+
+main {
+    background-color: white;
+    border-style: solid;
+    border-top: 0px;
+    min-width: 300px;
+    max-width: 900px;
+    margin: auto;
+    padding: 0px 40px 0px 0px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+article > h1 {
+    text-indent: 2em;
+    padding: 15px 0px 15px 0px;
+}
+
+article > h2 {
+    text-indent: 2em;
+    padding: 15px 0px 15px 0px;
+}
+
+p {
+    text-indent: 30px;
+    line-height: 2em;
+    text-align: justify;
+    padding: 10px 30px 10px 30px
+}
+
+a {
+    color: black;
+}
+
+div.redesocial{
+    padding: 10px;
+}
+
+ul {
+    padding: 10px;
+    list-style-position: inside;
+    list-style-type: '\2714\00a0\00a0';
+}
+
+ul#tags {
+    text-indent: 0.8em;
+    padding-bottom: 20px;
+    list-style-position: inside;
+    list-style-type: '\2714\00a0\00a0';
+}
+
+div.image {
+    display: block;
+    margin: auto;
+    max-width: 130px;
+    padding-bottom: 30px;
+}
