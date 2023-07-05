@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro programa...</title>
+    <style>
+        body {
+            background-color: rgb(106, 106, 194);
+            color: wheat;
+            font: normal 20pt arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>Olá, mundo!</h1>
+    <p>já me livrei da maldição</p>
+    <script>
+        var n1 = Number(window.prompt('Digite um número')) //String
+        var n2 = Number(window.prompt('Digite outro número')) //String
+        var s = n1 + n2
+        window.alert(`A soma dos entre ${n1} + ${n2} é igual a ${s}`) // Concatenação
+        //(number + number) para adição
+        //(string + string) para concatenação
+        //Os valores são parseInt para inteiros e parseFloat para flutuantes, porém pode-se user somente o number, caso querira forçar inteiro ou flutuante utilizar parse.
+        //A converção de string pode ser String(valor) e valor.toString()
+        //'Eu estou aprendendo s' = não faz interpolação
+        //'Eu estou aprendendo' + s = usa a concatenação
+        //`Eu estou aprendendo ${s} = usa templete sting
+        //s.length = qunatos caracteres a sting tem 
+        //s.toUpperCasa() = tudo para maiuscula
+        //s.toLoeCase() = Tudo para minuscula
+    </script>
+</body>
+</html>
