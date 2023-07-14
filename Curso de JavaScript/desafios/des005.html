@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de medidas</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        button {
+            width: 150px;
+            height: 100px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conversor de Modidas</h1>
+    <button onclick="clicou()">Converter</button>
+    <p>Clique no botão acima para iniciar</p>
+    <script>
+        function clicou() {
+            let m = window.prompt('Digite umm distância em metros (M)')
+            window.alert(`
+            A converção de metros em KM é ${m * 1000}
+            A converção de metros em HM é ${m * 100}
+            A converção de metros em Dam é ${m * 10}
+            A converção de metros em Dm é ${m / 10}
+            A converção de metros em CM é ${m / 100}
+            A converção de metros em MM é ${m / 1000}`)
+        }
+    </script>
+</body>
+</html>

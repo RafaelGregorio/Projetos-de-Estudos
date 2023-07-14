@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor R$ para US$</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        button {
+            width: 150px;
+            height: 100px;
+            font-weight: bold;
+        }
+        section {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Conversor R$ → US$</h1>
+    <button id="converter" onclick="cotacao()">Converter</button>
+    <section id="resultado">
+        Clique no botão acima para iniciar
+    </section>
+    <script>
+        let cot = window.prompt('Antes de mais nada. Qunto está a cotação do dolar agora?')
+        function cotacao() {
+            let cart = window.prompt('Quntos R$ você tem na carteira?')
+            var res = window.document.getElementById('resultado')
+            res.innerHTML = `
+            O valor da cotação de ${cot} US$ que ve pode comprar com R$ ${cart} é de R$ ${(cart / cot)}`
+        }
+
+    </script>
+</body>
+</html>
