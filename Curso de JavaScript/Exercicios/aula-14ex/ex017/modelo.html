@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabuada</title>
-    <link rel="stylesheet" href="stilo.css">
+    <link rel="stylesheet" href="estilo.css">
 </head>
 <body>
     <header>
@@ -12,10 +12,12 @@
     </header>
     <section>
         <div>
-            <p>Número: <input type="number" name="numrero" id="txtn" > <input type="button" value="Gerar Tabuáda" onclick="tabuada()"></p>
+            <p>Número: <input type="number" name="num" id="txtn" > <input type="button" value="Gerar Tabuáda" onclick="tabuada()"></p>
         </div>
         <div>
-            <select name="tabuada" id="seltab"></select>
+            <select name="tabuada" id="seltab" size="10">
+                <option>Digite um número acima</option>
+            </select>
         </div>
     </section>
     <footer>
